@@ -9,9 +9,8 @@
 </head>
 
 <body>
-    <img src="Logo.png" class="fondoirudi">
-    <div class="post">
     <?php include 'Footer ESP.php';?>
+    <div class="post">
         <h1>Guri Buruz</h1>
         <div>
             <h2 class="letterTitle">RevivaTech: Teknologia berrerabili, etorkizuna babestu.</h2>

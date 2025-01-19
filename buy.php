@@ -9,7 +9,7 @@
 </head>
 
 <body>
-<?php include 'Footer ENG.php';?>
+<?php include 'Header ENG.php';?>
     <div class="post">
         <h1>Buy</h1>
         <p>Below you can see the products we have for sale:</p>

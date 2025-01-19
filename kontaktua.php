@@ -9,7 +9,6 @@
 </head>
 
 <body>
-    <img src="Logo.png" class="fondoirudi">
     <?php include 'Footer ESP.php';?>
     <div class="post">
         <h1>Kontaktua</h1>

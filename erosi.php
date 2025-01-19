@@ -9,10 +9,8 @@
 </head>
 
 <body>
-    <img src="Logo.png" class="fondoirudi">
-    
+<?php include 'Footer ESP.php';?>
     <div class="post">
-    <?php include 'Footer ESP.php';?>
 
         <h1>Erosi</h1>
         <p>Jarraian salgai ditugun produktuak ikus ditzakezu:</p>

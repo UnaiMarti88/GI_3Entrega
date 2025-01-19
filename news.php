@@ -9,7 +9,7 @@
 </head>
 
 <body>
-<?php include 'Footer ENG.php';?>
+<?php include 'Header ENG.php';?>
 
     <div class="post">
         <h1>News</h1>

@@ -9,8 +9,7 @@
 </head>
 
 <body>
-<?php include 'Footer ENG.php';?>
-
+<?php include 'Header ENG.php';?>
     <div class="post">
         <h1>Sell Your Device</h1>
         <div>
