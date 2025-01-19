@@ -9,23 +9,7 @@
 </head>
 
 <body>
-    <img src="Logo.png" class="fondoirudi">
-    <div class="top">
-        <p class="name">RevivaTech</p>
-        <p class="slogan">Reuse technology, protect the future.</p>
-        <img src="Logo.png" class="topimg">
-        <ul class="menu">
-            <li><a href="news.html" class="orain">News</a></li>
-            <li><a href="aboutus.html">About Us</a></li>
-            <li><a href="buy.html">Buy</a></li>
-            <li><a href="sell.html">Sell</a></li>
-            <li><a href="contact.html">Contact</a></li>
-        </ul>
-        <ul class="language">
-            <li><a href="berriak.html">EUS</a></li>
-            <li><a href="news.html" class="orain">ENG</a></li>
-        </ul>
-    </div>
+<?php include 'Footer ENG.php';?>
 
     <div class="post">
         <h1>News</h1>

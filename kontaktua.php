@@ -10,22 +10,7 @@
 
 <body>
     <img src="Logo.png" class="fondoirudi">
-    <div class="top">
-        <img src="Logo.png" width="50px" class="topimg">
-        <p class="name">RevivaTech</p>
-        <p class="slogan">Teknologia berrerabili, etorkizuna babestu.</p>
-        <ul class="menu">
-            <li><a href="berriak.html">Berriak</a></li>
-            <li><a href="guriburuz.html">Guri Buruz</a></li>
-            <li><a href="erosi.html">Erosi</a></li>
-            <li><a href="saldu.html">Saldu</a></li>
-            <li><a href="kontaktua.html" class="orain">Kontaktua</a></li>
-        </ul>
-        <ul class="language">
-            <li><a href="kontaktua.html" class="orain">EUS</a></li>
-            <li><a href="contact.html">ENG</a></li>
-        </ul>
-    </div>
+    <?php include 'Footer ESP.php';?>
     <div class="post">
         <h1>Kontaktua</h1>
         <br>
