@@ -10,7 +10,7 @@
 
 <body>
     <img src="Logo.png" class="fondoirudi" draggable="false">
-    <?php include 'Footer ESP.php';?>
+    <?php include 'Header EUS.php';?>
     <div class="post">
         <h1>Berriak</h1>
         
