@@ -67,9 +67,7 @@
         <br>
 
     </div>
-    <div class="footer">
-        <p>&copy; 2024 RevivaTech. All rights reserved.</p>
-    </div>
+    <?php include 'Footer ENG.php'; ?>
 </body>
 
 </html>
