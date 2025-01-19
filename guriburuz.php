@@ -99,9 +99,7 @@
             <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1EBCLDQ1HxE-um9ZGRX9XxgAFxAQ0BtI&ehbc=2E312F&noprof=1" width= 99% height="480"></iframe>
         </div>
     </div>
-    <div class="footer">
-        <p>&copy; 2024 RevivaTech. Eskubide guztiak erreserbatuta.</p>
-    </div>
+    <?php include 'Footer EUS.php'; ?>
 </body>
 
 </html>

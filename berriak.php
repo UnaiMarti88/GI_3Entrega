@@ -82,9 +82,7 @@
         </div>
 
     </div>
-    <div class="footer">
-        <p>&copy; 2024 RevivaTech. Eskubide guztiak erreserbatuta.</p>
-    </div>
+    <?php include 'Footer EUS.php'; ?>
 </body>
 
 </html>
